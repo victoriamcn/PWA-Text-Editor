@@ -1,5 +1,17 @@
 {
     "short_name": "J.A.T.E",
     "name": "Create notes and code snippets with or without an internet connection.",
-    "icons": 
+    "icons": [
+        {
+            "src": "./client/src/images/logo.png",
+            "type": "image/png",
+            "sizes": "96x96",
+            "purpose": "any maskable"
+          }
+    ],
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./",
+    "background_color": "#f5f5f5",
+    "theme_color": "#31a9e1"
 }
