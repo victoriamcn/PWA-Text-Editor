@@ -26,6 +26,12 @@ A single-page application that meets PWA criteria. User create notes and code sn
 
 ## Usage
 
+## Dependencies
+
+- [concurrently][https://www.npmjs.com/package/concurrently]
+- [IndexedDB](https://www.npmjs.com/package/idb#installation)
+- 
+
 ## License
 
 ## Credits
