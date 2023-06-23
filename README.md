@@ -24,7 +24,7 @@ A single-page application that meets PWA criteria. User create notes and code sn
 
 ## Deployed Application
 
-[]()
+[https://thawing-temple-65313-66b549bf4e0e.herokuapp.com/](https://thawing-temple-65313-66b549bf4e0e.herokuapp.com/)
 
 ## Preview
 
@@ -34,11 +34,11 @@ A single-page application that meets PWA criteria. User create notes and code sn
 
 ### Use the app in the browser:
 
-1. Open the deployed application [here]() in the browser.
+1. Open the deployed application [here](https://thawing-temple-65313-66b549bf4e0e.herokuapp.com/) in the browser.
 
 ### Download the app to a local desktop:
 
-1. Open the deployed application [here]() in the browser.
+1. Open the deployed application [here](https://thawing-temple-65313-66b549bf4e0e.herokuapp.com/) in the browser.
 2. Click the ```Install``` button in the top left corner to download.
 
 ## Dependencies
