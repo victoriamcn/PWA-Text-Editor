@@ -12,7 +12,6 @@ A single-page application that meets PWA criteria. User create notes and code sn
     - [Preview](#preview)
     - [Installation](#installation)
         - [Download the app to a local desktop](#download-the-app-to-a-local-desktop)
-    - [Usage](#usage)
     - [License](#license)
     - [Credits](#credits)
         - [Tutorials](#tutorials)
@@ -41,9 +40,6 @@ A single-page application that meets PWA criteria. User create notes and code sn
 
 1. Open the deployed application [here]() in the browser.
 2. Click the ```Install``` button in the top left corner to download.
-
-
-## Usage
 
 ## Dependencies
 
