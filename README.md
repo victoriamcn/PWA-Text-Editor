@@ -11,6 +11,7 @@ A single-page application that meets PWA criteria. User create notes and code sn
     - [Deployed Application](#deployed-application)
     - [Preview](#preview)
     - [Installation](#installation)
+        - [Download the app to a local desktop](#download-the-app-to-a-local-desktop)
     - [Usage](#usage)
     - [License](#license)
     - [Credits](#credits)
@@ -28,13 +29,18 @@ A single-page application that meets PWA criteria. User create notes and code sn
 
 ## Installation
 
+### Download the app to a local desktop:
+
+1. Open the deployed application.
+2. Click the ```Install``` button in the top left corner.
+
+
 ## Usage
 
 ## Dependencies
 
 - [Concurrently](https://www.npmjs.com/package/concurrently)
 - [IndexedDB](https://www.npmjs.com/package/idb#installation)
-- 
 
 ## License
 
@@ -42,9 +48,12 @@ A single-page application that meets PWA criteria. User create notes and code sn
 
 ### Tutorials
 
-### Code Examples
+- MDN Web Docs: [Progressive web apps (PWAs)](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
+- MDN Web Docs: [Web app manifests](https://developer.mozilla.org/en-US/docs/Web/Manifest)
+- Mozilla: [Using IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB)
+- StackOverflow: [indexedDB Creating a database and adding content Failed to execute 'transaction' on 'IDBDatabase'](https://stackoverflow.com/questions/36955441/indexeddb-creating-a-database-and-adding-content-failed-to-execute-transaction)
+- StackOverflow: [Module build failed (from ./node_modules/babel-loader/lib/index.js)](https://stackoverflow.com/questions/52087421/module-build-failed-from-node-modules-babel-loader-lib-index-js-typeerror)
 
-## Badges
 
 ## Badges
 
@@ -56,7 +65,6 @@ A single-page application that meets PWA criteria. User create notes and code sn
 
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

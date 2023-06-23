@@ -20,13 +20,13 @@ export const putDb = async ( content) => {
   const jateDb = await openDB('note', 1);
 
   // Create a new transaction and specify the database and data privileges.
-  const tx = jateDb.transaction('note', 'readwrite');
+  const tx = jateDb.transaction(['note'], 'readwrite');
 
   // Open up the desired object store.
   const store = tx.objectStore('note');
 
   // Use a method to update existing content
-  const request = store.put({ id: 1, value: content });
+  const request = store.add({ content: content});
 
   // Get confirmation of the request.
   const result = await request;
@@ -42,7 +42,7 @@ export const getDb = async (content) => {
   const jateDb = await openDB('note', 1);
 
   // Create a new transaction and specify the database and data privileges.
-  const tx = jateDb.transaction('note', 'readonly');
+  const tx = jateDb.transaction(['note'], 'readonly');
 
   // Open up the desired object store.
   const store = tx.objectStore('note');

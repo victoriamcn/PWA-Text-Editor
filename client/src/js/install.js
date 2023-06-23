@@ -6,7 +6,7 @@ window.addEventListener('beforeinstallprompt', (event) => {
     // store the triggered events
     window.deferredPrompt = event;
 
-    // remove hiddle class from the button
+    // remove hidden class from the button
     butInstall.classList.toggle('hidden', false);
 });
 
@@ -17,8 +17,7 @@ butInstall.addEventListener('click', async () => {
     if (!promptEvent) {
         return;
     }
-
-    //show prompt
+    //else show prompt
     promptEvent.prompt();
 
     // reset the deferred prompt variable, it can only be used once
