@@ -25,14 +25,22 @@ A single-page application that meets PWA criteria. User create notes and code sn
 
 ## Deployed Application
 
+[]()
+
 ## Preview
+
+![Just Another Text Editor browser page](client/src/images/texteditorpreview.png)
 
 ## Installation
 
+### Use the app in the browser:
+
+1. Open the deployed application [here]() in the browser.
+
 ### Download the app to a local desktop:
 
-1. Open the deployed application.
-2. Click the ```Install``` button in the top left corner.
+1. Open the deployed application [here]() in the browser.
+2. Click the ```Install``` button in the top left corner to download.
 
 
 ## Usage
@@ -43,6 +51,10 @@ A single-page application that meets PWA criteria. User create notes and code sn
 - [IndexedDB](https://www.npmjs.com/package/idb#installation)
 
 ## License
+
+![GitHub License Badge](https://img.shields.io/badge/license-MIT-blue.svg)
+
+This project is licensed under MIT.
 
 ## Credits
 
